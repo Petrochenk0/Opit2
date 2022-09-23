@@ -1,0 +1,48 @@
+body{
+	background-image: url(дз_7м_2у/fon.png);
+	font-family:Arial;
+	box-sizing: border-box;
+}
+.osn{
+	width:1200px;
+	height:550px;
+	margin:0 auto;
+	display: inline-block;
+}
+.chel{
+	position: relative;
+	left:250px;
+	top:250px;
+}
+.expo{
+	position: relative;
+	left:790px;
+	width:50px;
+}
+.NB{
+	position: relative;
+	top:50px;
+	left:440px;
+	background: white;
+	border:0.2px solid black;
+	width:760px;
+	height:315px;
+}
+.NB .imgNB{
+	position: absolute;
+	top:70px;
+	left:100px;
+}
+.NB .vd{
+	text-align:center;
+	margin-top:225px;
+	margin-right: 390px;
+}
+.ba{
+	width:200px;
+	height:50px;
+	border-radius: 90px;
+	position: absolute;
+	top:290px;
+	left:283px;
+}
